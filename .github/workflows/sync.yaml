@@ -20,13 +20,10 @@ jobs:
             args: --release
         - name: Generate Readme
           run: cargo run --release
-        - name: Commit changes
+        - name: Commit and Push changes
           run: |
                 git config --local user.email "41448663+BRAVO68WEB@users.noreply.github.com"
                 git config --local user.name "BRAVO68WEB"
                 git add README.md
                 git commit -m "Regenerated Readme"
-        - name: Push changes
-          uses: ad-m/github-push-action@master
-          with:
-            github_token: ${{ secrets.GITHUB_TOKEN }}
+                git push
