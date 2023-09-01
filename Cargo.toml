@@ -1,0 +1,12 @@
+[package]
+name = "random-tools-in-rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4.28"
+serde = "1.0.188"
+serde_json = "1.0"
+ureq = { version = "*", features = ["json", "charset"] }
