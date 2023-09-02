@@ -131,9 +131,6 @@ fn main() {
     file.write(now.to_string().as_bytes())
         .expect("Error encountered while writing to file!");
 
-    file.write(b"_\n\n")
-        .expect("Error encountered while writing to file!");
-
     Ok::<(), ()>(())
         .expect("Error encountered while writing to file!");
 }
