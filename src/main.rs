@@ -40,10 +40,13 @@ fn main() {
     let mut file = File::create("README.md")
         .expect("Error encountered while creating file!");
 
-    file.write(b"# Tools create in Rust\n\n")
+    file.write(b"# Tools create in Rust :crab: \n\n")
         .expect("Error encountered while writing to file!");
 
     file.write(b"Parady to \"Everybody cares about random tools created in rust\".\n\n")
+        .expect("Error encountered while writing to file!");
+
+    file.write(b"Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) \n\n")
         .expect("Error encountered while writing to file!");
 
     let body = ureq::get(GITHUB_API)

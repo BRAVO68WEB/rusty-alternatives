@@ -1,8 +1,10 @@
-# Tools create in Rust
+# Tools create in Rust :crab: 
 
 Parady to "Everybody cares about random tools created in rust".
 
-Total repositories: 47502
+Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
+
+Total repositories: 47511
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -116,5 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 02-09-2023 00:15:43_
+##### _Last Run on 02-09-2023 10:17:52_
 
