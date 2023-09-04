@@ -2,7 +2,7 @@ use std::fs::File;
 use std::io::prelude::*;
 use serde_json;
 
-pub static GITHUB_API: &str = "https://api.github.com/search/repositories?q=topic:rust&per_page=100";    
+pub static GITHUB_API: &str = "https://api.github.com/search/repositories?q=language:rust&per_page=100";    
 
 pub struct Repository {
     pub name: String,
@@ -60,7 +60,7 @@ fn main() {
     // Get the total count of repositories.
     let total_count = json["total_count"].as_u64().unwrap();
 
-    file.write(b"Total repositories: ")
+    file.write(b"Total repositories created in Rust: ")
         .expect("Error encountered while writing to file!");
     file.write(total_count.to_string().as_bytes())
         .expect("Error encountered while writing to file!");
