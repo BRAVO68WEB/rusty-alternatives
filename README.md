@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 527488
+Total repositories created in Rust: 527916
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -67,8 +67,8 @@ Total repositories created in Rust: 527488
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 13-09-2023 00:16:38
+##### _Last Run on 14-09-2023 00:16:42
