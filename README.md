@@ -117,5 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [GitHub](https://github.com)
 - [Rust](https://www.rust-lang.org)
 
-
 ##### _Last Run on 15-09-2023 22:01:39
