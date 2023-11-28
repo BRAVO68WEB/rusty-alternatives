@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 561822
+Total repositories created in Rust: 562363
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -73,8 +73,8 @@ Total repositories created in Rust: 561822
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -93,8 +93,8 @@ Total repositories created in Rust: 561822
 - [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 27-11-2023 00:18:11_
+##### _Last Run on 28-11-2023 00:17:49_
