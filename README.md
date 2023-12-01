@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 563438
+Total repositories created in Rust: 564210
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -30,8 +30,8 @@ Total repositories created in Rust: 563438
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-- [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -90,8 +90,8 @@ Total repositories created in Rust: 563438
 - [universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
+- [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 30-11-2023 00:18:11_
+##### _Last Run on 01-12-2023 00:19:58_
