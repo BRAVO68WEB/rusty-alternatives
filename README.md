@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 582806
+Total repositories created in Rust: 583334
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -57,9 +57,9 @@ Total repositories created in Rust: 582806
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
+- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -92,8 +92,8 @@ Total repositories created in Rust: 582806
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
-- [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
+- [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 28-12-2023 00:18:15_
+##### _Last Run on 29-12-2023 00:15:08_
