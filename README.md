@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 592085
+Total repositories created in Rust: 592626
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -81,8 +81,8 @@ Total repositories created in Rust: 592085
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-- [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
@@ -102,8 +102,8 @@ Total repositories created in Rust: 592085
 - [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust
 - [rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 16-01-2024 00:18:14_
+##### _Last Run on 17-01-2024 00:18:11_
