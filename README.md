@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 604670
+Total repositories created in Rust: 605148
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -25,8 +25,8 @@ Total repositories created in Rust: 604670
 - [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-- [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
+- [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -56,8 +56,8 @@ Total repositories created in Rust: 604670
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 10-02-2024 00:16:43_
+##### _Last Run on 11-02-2024 00:19:14_
