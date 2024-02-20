@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 609114
+Total repositories created in Rust: 609679
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -30,8 +30,8 @@ Total repositories created in Rust: 609114
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
-- [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -40,8 +40,8 @@ Total repositories created in Rust: 609114
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [rust-course](https://github.com/sunface/rust-course) - “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book 
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -70,16 +70,16 @@ Total repositories created in Rust: 609114
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 19-02-2024 00:17:49_
+##### _Last Run on 20-02-2024 00:16:39_
