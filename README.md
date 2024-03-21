@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 625730
+Total repositories created in Rust: 626281
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -59,8 +59,8 @@ Total repositories created in Rust: 625730
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+- [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -79,15 +79,15 @@ Total repositories created in Rust: 625730
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -104,8 +104,8 @@ Total repositories created in Rust: 625730
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
-- [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 
 
 ## License
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 20-03-2024 00:17:13_
+##### _Last Run on 21-03-2024 00:18:22_
