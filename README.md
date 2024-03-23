@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 626901
+Total repositories created in Rust: 627458
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -53,8 +53,8 @@ Total repositories created in Rust: 626901
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -62,8 +62,8 @@ Total repositories created in Rust: 626901
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
@@ -95,9 +95,9 @@ Total repositories created in Rust: 626901
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) - :books: Learn to write an embedded OS in Rust :crab:
+- [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
 - [static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-- [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 22-03-2024 00:17:27_
+##### _Last Run on 23-03-2024 00:16:57_
