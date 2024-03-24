@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 627458
+Total repositories created in Rust: 627970
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -56,8 +56,8 @@ Total repositories created in Rust: 627458
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 23-03-2024 00:16:57_
+##### _Last Run on 24-03-2024 00:19:48_
