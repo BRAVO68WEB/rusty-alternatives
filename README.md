@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 631086
+Total repositories created in Rust: 631598
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -33,8 +33,8 @@ Total repositories created in Rust: 631086
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
@@ -68,8 +68,8 @@ Total repositories created in Rust: 631086
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -81,8 +81,8 @@ Total repositories created in Rust: 631086
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
-- [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -102,8 +102,8 @@ Total repositories created in Rust: 631086
 - [lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-- [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+- [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 30-03-2024 00:16:37_
+##### _Last Run on 31-03-2024 00:19:52_
