@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 632647
+Total repositories created in Rust: 633139
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -25,15 +25,15 @@ Total repositories created in Rust: 632647
 - [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -60,10 +60,10 @@ Total repositories created in Rust: 632647
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -80,8 +80,8 @@ Total repositories created in Rust: 632647
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
-- [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 02-04-2024 00:17:34_
+##### _Last Run on 03-04-2024 00:17:24_
