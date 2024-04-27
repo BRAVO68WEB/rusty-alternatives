@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 647083
+Total repositories created in Rust: 647624
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -61,8 +61,8 @@ Total repositories created in Rust: 647083
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
+- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 26-04-2024 00:17:40_
+##### _Last Run on 27-04-2024 00:17:26_
