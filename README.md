@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 661578
+Total repositories created in Rust: 662082
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -90,9 +90,9 @@ Total repositories created in Rust: 661578
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
-- [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
@@ -105,7 +105,7 @@ Total repositories created in Rust: 661578
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [cargo](https://github.com/rust-lang/cargo) - The Rust package manager
-- [diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
+- [neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 
 
 ## License
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 23-05-2024 00:18:04_
+##### _Last Run on 24-05-2024 00:18:42_
