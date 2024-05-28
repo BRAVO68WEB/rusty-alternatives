@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 663472
+Total repositories created in Rust: 663917
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -79,8 +79,8 @@ Total repositories created in Rust: 663472
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-- [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+- [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 27-05-2024 00:19:06_
+##### _Last Run on 28-05-2024 00:18:40_
