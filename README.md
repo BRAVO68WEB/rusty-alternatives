@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 689929
+Total repositories created in Rust: 690403
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -78,8 +78,8 @@ Total repositories created in Rust: 689929
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
@@ -89,9 +89,9 @@ Total repositories created in Rust: 689929
 - [universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 23-07-2024 00:19:53_
+##### _Last Run on 24-07-2024 00:20:16_
