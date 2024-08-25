@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 705175
+Total repositories created in Rust: 705585
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -59,8 +59,8 @@ Total repositories created in Rust: 705175
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
+- [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -70,12 +70,12 @@ Total repositories created in Rust: 705175
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
-- [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 24-08-2024 00:19:28_
+##### _Last Run on 25-08-2024 00:22:19_
