@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 720192
+Total repositories created in Rust: 720779
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -90,14 +90,14 @@ Total repositories created in Rust: 720192
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [book](https://github.com/rust-lang/book) - The Rust Programming Language
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 25-09-2024 00:22:25_
+##### _Last Run on 26-09-2024 00:21:40_
