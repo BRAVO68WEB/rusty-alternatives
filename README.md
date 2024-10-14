@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 728987
+Total repositories created in Rust: 729506
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -26,8 +26,8 @@ Total repositories created in Rust: 728987
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -68,8 +68,8 @@ Total repositories created in Rust: 728987
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
-- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
@@ -80,8 +80,8 @@ Total repositories created in Rust: 728987
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
-- [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 13-10-2024 00:24:22_
+##### _Last Run on 14-10-2024 00:23:34_
