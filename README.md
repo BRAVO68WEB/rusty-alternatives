@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 730004
+Total repositories created in Rust: 730488
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -62,8 +62,8 @@ Total repositories created in Rust: 730004
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 15-10-2024 00:22:24_
+##### _Last Run on 16-10-2024 00:22:19_
