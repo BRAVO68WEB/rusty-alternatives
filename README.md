@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 730488
+Total repositories created in Rust: 731139
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -25,8 +25,8 @@ Total repositories created in Rust: 730488
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -46,8 +46,8 @@ Total repositories created in Rust: 730488
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
@@ -84,9 +84,9 @@ Total repositories created in Rust: 730488
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-- [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 16-10-2024 00:22:19_
+##### _Last Run on 17-10-2024 00:22:27_
