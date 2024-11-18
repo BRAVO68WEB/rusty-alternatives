@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 747408
+Total repositories created in Rust: 747936
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -48,8 +48,8 @@ Total repositories created in Rust: 747408
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 17-11-2024 00:25:36_
+##### _Last Run on 18-11-2024 00:25:06_
