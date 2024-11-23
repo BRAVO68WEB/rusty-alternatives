@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 750002
+Total repositories created in Rust: 750502
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -37,8 +37,8 @@ Total repositories created in Rust: 750002
 - [servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+- [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
@@ -76,14 +76,14 @@ Total repositories created in Rust: 750002
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
-- [cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
-- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 22-11-2024 00:24:18_
+##### _Last Run on 23-11-2024 00:24:06_
