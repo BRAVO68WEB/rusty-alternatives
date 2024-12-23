@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 770836
+Total repositories created in Rust: 771412
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -46,14 +46,14 @@ Total repositories created in Rust: 770836
 - [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
-- [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -74,10 +74,10 @@ Total repositories created in Rust: 770836
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
+- [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 22-12-2024 00:25:22_
+##### _Last Run on 23-12-2024 00:23:46_
