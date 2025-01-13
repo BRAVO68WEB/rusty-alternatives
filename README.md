@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 781860
+Total repositories created in Rust: 782372
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -55,8 +55,8 @@ Total repositories created in Rust: 781860
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 12-01-2025 00:25:29_
+##### _Last Run on 13-01-2025 00:24:53_
