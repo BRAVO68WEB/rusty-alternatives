@@ -4,15 +4,15 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 806497
+Total repositories created in Rust: 807033
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
-- [fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -70,8 +70,8 @@ Total repositories created in Rust: 806497
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -82,8 +82,8 @@ Total repositories created in Rust: 806497
 - [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
-- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
+- [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 26-02-2025 00:23:12_
+##### _Last Run on 27-02-2025 00:23:30_
