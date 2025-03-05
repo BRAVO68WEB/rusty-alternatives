@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 809753
+Total repositories created in Rust: 810365
 
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -27,18 +27,18 @@ Total repositories created in Rust: 809753
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+- [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+- [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
@@ -47,8 +47,8 @@ Total repositories created in Rust: 809753
 - [turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
 - [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -59,8 +59,8 @@ Total repositories created in Rust: 809753
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -73,8 +73,8 @@ Total repositories created in Rust: 809753
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
@@ -84,8 +84,8 @@ Total repositories created in Rust: 809753
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- [cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
@@ -96,12 +96,12 @@ Total repositories created in Rust: 809753
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
+- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 04-03-2025 00:23:39_
+##### _Last Run on 05-03-2025 00:23:38_
