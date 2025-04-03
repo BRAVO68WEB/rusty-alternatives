@@ -4,10 +4,10 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 826896
+Total repositories created in Rust: 827488
 
-- [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
@@ -67,27 +67,27 @@ Total repositories created in Rust: 826896
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
-- [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+- [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust
 - [vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
-- [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+- [gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
 - [relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 - [cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
-- [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 02-04-2025 00:25:20_
+##### _Last Run on 03-04-2025 00:24:29_
