@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 838003
+Total repositories created in Rust: 838710
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -53,8 +53,8 @@ Total repositories created in Rust: 838003
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
+- [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 22-04-2025 00:25:39_
+##### _Last Run on 23-04-2025 00:24:59_
