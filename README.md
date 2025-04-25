@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 839317
+Total repositories created in Rust: 839895
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -52,8 +52,8 @@ Total repositories created in Rust: 839317
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
-- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -103,8 +103,8 @@ Total repositories created in Rust: 839317
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 - [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 
 
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 24-04-2025 00:25:07_
+##### _Last Run on 25-04-2025 00:25:37_
