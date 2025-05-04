@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 844490
+Total repositories created in Rust: 844970
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -103,8 +103,8 @@ Total repositories created in Rust: 844490
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
 
 
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 03-05-2025 00:24:48_
+##### _Last Run on 04-05-2025 00:28:46_
