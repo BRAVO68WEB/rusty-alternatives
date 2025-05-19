@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 853242
+Total repositories created in Rust: 853740
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -58,10 +58,10 @@ Total repositories created in Rust: 853242
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+- [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 18-05-2025 00:28:38_
+##### _Last Run on 19-05-2025 00:28:02_
