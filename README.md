@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 855604
+Total repositories created in Rust: 856349
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -52,8 +52,8 @@ Total repositories created in Rust: 855604
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
-- [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+- [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 22-05-2025 00:26:19_
+##### _Last Run on 23-05-2025 00:26:39_
