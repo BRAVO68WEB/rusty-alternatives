@@ -4,6 +4,38 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
+## 🚂 Railway Route Finder (Python)
+
+A Python-based Proof of Concept for finding optimal railway routes using OpenStreetMap data.
+
+**Features:**
+- 🗺️ Parse OSM PBF files to extract railway infrastructure
+- 🚉 Build railway network graphs with NetworkX
+- 🔍 Find shortest routes between stations using Dijkstra's algorithm
+- 🔎 Fuzzy station name search and disambiguation
+- 📍 Geographic station search by coordinates
+- 🛤️ Alternative route suggestions
+- 💻 Interactive CLI with progress indicators
+
+**Quick Start:**
+```bash
+cd railway_finder
+pip install -r requirements.txt
+
+# Build network from OSM data
+python railway_finder.py build --input sample.osm.pbf --output network.pkl
+
+# Find route between stations  
+python railway_finder.py route --network network.pkl --from "Station A" --to "Station B"
+
+# Search stations
+python railway_finder.py stations --network network.pkl --station "Central"
+```
+
+[📖 Full Documentation](railway_finder/README.md)
+
+---
+
 Total repositories created in Rust: 905779
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.

@@ -1,0 +1,7 @@
+# pyosmium>=3.6.0  # Note: Install manually if available: pip install pyosmium or apt install python3-osmium
+networkx>=3.1
+click>=8.1.0
+geopy>=2.3.0
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.21.0
+tqdm>=4.66.0
