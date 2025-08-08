@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 912677
+Total repositories created in Rust: 913312
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -103,8 +103,8 @@ Total repositories created in Rust: 912677
 - [ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
-- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls
+- [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 
 
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 07-08-2025 00:29:24_
+##### _Last Run on 08-08-2025 00:29:36_
