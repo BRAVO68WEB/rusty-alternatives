@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 926277
+Total repositories created in Rust: 926781
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -37,8 +37,9 @@ Total repositories created in Rust: 926277
 - [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -57,10 +58,10 @@ Total repositories created in Rust: 926277
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
-- [hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -105,7 +106,6 @@ Total repositories created in Rust: 926277
 - [fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 - [diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
-- [book](https://github.com/rust-lang/book) - The Rust Programming Language
 
 
 ## License
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 30-08-2025 00:23:53_
+##### _Last Run on 31-08-2025 00:28:29_
