@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 968924
+Total repositories created in Rust: 969661
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -27,8 +27,8 @@ Total repositories created in Rust: 968924
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
-- [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -65,8 +65,8 @@ Total repositories created in Rust: 968924
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
-- [fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
+- [fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 - [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [chroma](https://github.com/chroma-core/chroma) - Open-source search and retrieval database for AI applications.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 05-11-2025 00:26:58_
+##### _Last Run on 06-11-2025 00:26:14_
