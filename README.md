@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1026532
+Total repositories created in Rust: 1027513
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -64,8 +64,8 @@ Total repositories created in Rust: 1026532
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 - [goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
@@ -95,8 +95,8 @@ Total repositories created in Rust: 1026532
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-- [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [Bend](https://github.com/HigherOrderCO/Bend) - A massively parallel, high-level programming language
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 15-01-2026 00:27:10_
+##### _Last Run on 16-01-2026 00:30:01_
