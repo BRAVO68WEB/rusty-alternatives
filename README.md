@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1098996
+Total repositories created in Rust: 1100616
 
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -42,8 +42,8 @@ Total repositories created in Rust: 1098996
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
@@ -69,8 +69,8 @@ Total repositories created in Rust: 1098996
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-- [chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+- [chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
@@ -80,16 +80,16 @@ Total repositories created in Rust: 1098996
 - [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
-- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+- [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
-- [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
+- [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 20-03-2026 00:41:35_
+##### _Last Run on 21-03-2026 00:39:26_
