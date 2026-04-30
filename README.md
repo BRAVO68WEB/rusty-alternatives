@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1149687
+Total repositories created in Rust: 1150932
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -33,15 +33,16 @@ Total repositories created in Rust: 1149687
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
+- [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
+- [rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-- [rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
@@ -54,7 +55,6 @@ Total repositories created in Rust: 1149687
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -72,8 +72,8 @@ Total repositories created in Rust: 1149687
 - [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 - [jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [chroma](https://github.com/chroma-core/chroma) - Data infrastructure for AI
+- [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -93,8 +93,8 @@ Total repositories created in Rust: 1149687
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
+- [tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 29-04-2026 00:58:27_
+##### _Last Run on 30-04-2026 00:58:14_
