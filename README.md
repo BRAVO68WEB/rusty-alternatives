@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1193738
+Total repositories created in Rust: 1195375
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -12,8 +12,8 @@ Total repositories created in Rust: 1193738
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-- [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+- [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
@@ -21,15 +21,15 @@ Total repositories created in Rust: 1193738
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+- [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-- [fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [fuel-core](https://github.com/FuelLabs/fuel-core) - Rust full node implementation of the Fuel v2 protocol.
 - [ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
@@ -37,8 +37,8 @@ Total repositories created in Rust: 1193738
 - [bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -50,6 +50,7 @@ Total repositories created in Rust: 1193738
 - [servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -76,16 +77,16 @@ Total repositories created in Rust: 1193738
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
-- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-- [axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+- [axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [Rust](https://github.com/TheAlgorithms/Rust) -  All Algorithms implemented in Rust 
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
@@ -93,8 +94,8 @@ Total repositories created in Rust: 1193738
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [fhevm](https://github.com/zama-ai/fhevm) - FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-- [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
+- [biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 - [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
@@ -105,7 +106,6 @@ Total repositories created in Rust: 1193738
 - [slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 
 
 ## License
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 01-06-2026 01:13:48_
+##### _Last Run on 02-06-2026 01:12:21_
