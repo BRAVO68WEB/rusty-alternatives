@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1346290
+Total repositories created in Rust: 1347856
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -26,8 +26,8 @@ Total repositories created in Rust: 1346290
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -70,15 +70,15 @@ Total repositories created in Rust: 1346290
 - [x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+- [buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+- [atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
@@ -97,9 +97,9 @@ Total repositories created in Rust: 1346290
 - [niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
+- [obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
-- [obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
 - [tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 15-09-2026 04:17:33_
+##### _Last Run on 16-09-2026 04:13:11_
