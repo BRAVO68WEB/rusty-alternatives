@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1388297
+Total repositories created in Rust: 1390456
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -26,7 +26,7 @@ Total repositories created in Rust: 1388297
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -46,7 +46,7 @@ Total repositories created in Rust: 1388297
 - [herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [fuels-rs](https://github.com/FuelLabs/fuels-rs) - Fuel Network Rust SDK
 - [yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -59,6 +59,7 @@ Total repositories created in Rust: 1388297
 - [llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
+- [photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -91,11 +92,10 @@ Total repositories created in Rust: 1388297
 - [rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
 - [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 - [chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
-- [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
-- [photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 09-10-2026 05:30:29_
+##### _Last Run on 10-10-2026 05:14:05_
