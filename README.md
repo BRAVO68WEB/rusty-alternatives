@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1408595
+Total repositories created in Rust: 1411741
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -24,9 +24,9 @@ Total repositories created in Rust: 1408595
 - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [sway](https://github.com/FuelLabs/sway) - 🌴 Empowering everyone to build reliable and efficient smart contracts.
@@ -64,8 +64,8 @@ Total repositories created in Rust: 1408595
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
 - [buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -81,9 +81,10 @@ Total repositories created in Rust: 1408595
 - [Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
 - [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 - [jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-- [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [anki](https://github.com/ankitects/anki) - Anki is a smart spaced repetition flashcard program
+- [linera-protocol](https://github.com/linera-io/linera-protocol) - Main repository for the Linera protocol
 - [atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
+- [artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows. Understand How to write meeting minutes
 - [iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -91,9 +92,8 @@ Total repositories created in Rust: 1408595
 - [egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
-- [artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 - [nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
-- [cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
+- [cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
 - [chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI
 - [wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 17-10-2026 03:48:17_
+##### _Last Run on 18-10-2026 03:54:46_
