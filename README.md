@@ -4,7 +4,7 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1448986
+Total repositories created in Rust: 1452186
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -64,10 +64,10 @@ Total repositories created in Rust: 1448986
 - [pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [buzz](https://github.com/block/buzz) - A hive mind communication platform
 - [just](https://github.com/casey/just) - 🤖 Just a command runner
+- [Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 31-10-2026 04:54:56_
+##### _Last Run on 01-11-2026 05:22:57_
