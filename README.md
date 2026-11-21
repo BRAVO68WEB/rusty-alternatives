@@ -4,10 +4,9 @@ Parady to "Everybody cares about random tools created in rust".
 
 Context: [Programmersarealsohuman - Interview with Senior Rust Developer in 2023](https://www.youtube.com/watch?v=TGfQu0bQTKc&ab_channel=Programmersarealsohuman) 
 
-Total repositories created in Rust: 1513327
+Total repositories created in Rust: 1511080
 
 - [claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -58,11 +57,11 @@ Total repositories created in Rust: 1513327
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - [dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+- [craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
 - [llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-- [craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
 - [servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [buzz](https://github.com/block/buzz) - A hive mind communication platform
@@ -106,6 +105,7 @@ Total repositories created in Rust: 1513327
 - [vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 
 
 ## License
@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - [Rust](https://www.rust-lang.org)
 
 
-##### _Last Run on 20-11-2026 06:37:16_
+##### _Last Run on 21-11-2026 06:29:15_
